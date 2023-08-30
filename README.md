@@ -33,11 +33,8 @@ C D
 
 Este exemplo representa um grafo com as arestas: (A), (B), (C) e (D).
 
-Matriz de Adjacência:
-[[0 1 0 0]
- [0 0 1 1]
- [1 0 0 0]
- [0 0 0 0]]
+![image](https://github.com/Grizar91/Criando-matriz-de-adjacencia-/assets/143652037/fbe6c796-533c-4802-8255-f1a9c3941a26)
+
 ## Observações
 
 - Certifique-se de que o arquivo `grafo.txt` esteja no mesmo diretório que o arquivo `gerador_grafo.py`.
