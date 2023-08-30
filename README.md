@@ -32,12 +32,11 @@ python gerador_grafo.py
 
 ## Exemplo de arquivo grafo.txt
 
-1 2
-1 3
-2 3
-3 4
+Matriz de Adjacência:
+A B
+C D
 
-Este exemplo representa um grafo com as arestas: (1, 2), (1, 3), (2, 3) e (3, 4).
+Este exemplo representa um grafo com as arestas: (A), (B), (C) e (D).
 
 ## Observações
 
