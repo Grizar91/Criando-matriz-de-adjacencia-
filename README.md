@@ -27,11 +27,6 @@ python gerador_grafo.py
 
 ## Exemplo de arquivo grafo.txt
 
-
-5. A matriz de adjacência será exibida no terminal.
-
-## Exemplo de arquivo grafo.txt
-
 Matriz de Adjacência:
 A B
 C D
