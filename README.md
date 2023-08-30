@@ -1,5 +1,3 @@
-# Criando-matriz-de-adjacencia-
-
 # Gerador de Matriz de Adjacência de Grafo
 
 Este é um simples gerador de matriz de adjacência de um grafo usando a biblioteca Networkx em Python.
