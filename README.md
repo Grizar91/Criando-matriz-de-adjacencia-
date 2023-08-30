@@ -29,9 +29,11 @@ python gerador_grafo.py
 
 Matriz de Adjacência:
 A B
-C D
+B C
+C A
+B D
 
-Este exemplo representa um grafo com as arestas: (A), (B), (C) e (D).
+Este exemplo representa um grafo com as arestas: (A,B), (B,C), (C,A) e (B,D).
 
 ![image](https://github.com/Grizar91/Criando-matriz-de-adjacencia-/assets/143652037/fbe6c796-533c-4802-8255-f1a9c3941a26)
 
